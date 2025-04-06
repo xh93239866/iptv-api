@@ -16,3 +16,5 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/0047ol/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+https://raw.githubusercontent.com/0047ol/China-TV-Live-M3U8/refs/heads/main/tv.m3u
