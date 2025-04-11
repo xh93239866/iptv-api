@@ -129,10 +129,11 @@ CHC动作电影,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=chcdz
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23865142
 笑傲江湖,http://150.158.112.123/php/yy.php?id=1354930909
+笑傲江湖,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23865142
 天龙八部,https://txmov2.a.kwimgs.com/upic/2021/02/26/11/BMjAyMTAyMjYxMTAwNTBfNDAzMDAxOTlfNDUwNDcyNzM5MTRfMF8z_b_B75ed716649c36f65fc2354f75dba47a5.mp4
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
+天龙八部,https://vip.ffzy-play5.com/20230121/6052_87b1c663/2000k/hls/mixed.m3u8
 天龙八部,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23903123
 鹿鼎记,http://fmbox.cc/公众号玉玉软件库/huya.php?id=23865080
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
@@ -1529,4 +1530,4 @@ CCTV-15,url
 射雕英雄传,url
 
 🕘️更新时间,#genre#
-2025-04-12 01:32:11,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+2025-04-12 07:08:32,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
