@@ -668,7 +668,7 @@ async def process_sort_channel_list(data, ipv6=False, callback=None):
     """
     Process the sort channel list
     """
-    ipv6_proxy_url = None if (not config.open_ipv6 or ipv6) else constants.ipv6_proxy
+    ipv6_proxy_url = None # if (not config.open_ipv6 or ipv6) else constants.ipv6_proxy
     open_filter_resolution = config.open_filter_resolution
     open_headers = config.open_headers
     min_resolution_value = config.min_resolution_value
