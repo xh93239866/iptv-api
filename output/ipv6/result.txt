@@ -1,56 +1,40 @@
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
-CCTV-1,http://dsj.motem.top:8880/gaoma/cctv1.m3u8
-CCTV-2,http://dsj.motem.top:8880/gaoma/cctv2.m3u8
-CCTV-3,http://dsj.motem.top:8880/gaoma/cctv3.m3u8
-CCTV-4,http://dsj.motem.top:8880/gaoma/cctv4.m3u8
-CCTV-5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
-CCTV-5+,http://dsj.motem.top:8880/gaoma/cctv5p.m3u8
-CCTV-7,http://dsj.motem.top:8880/gaoma/cctv7.m3u8
-CCTV-8,http://dsj.motem.top:8880/gaoma/cctv8.m3u8
-CCTV-9,http://dsj.motem.top:8880/gaoma/cctv9.m3u8
-CCTV-10,http://dsj.motem.top:8880/gaoma/cctv10.m3u8
-CCTV-11,http://dsj.motem.top:8880/gaoma/cctv11.m3u8
-CCTV-12,http://dsj.motem.top:8880/gaoma/cctv12.m3u8
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-13,http://dsj.motem.top:8880/gaoma/cctv13.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,http://dsj.motem.top:8880/gaoma/cctv14.m3u8
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
-CCTV-15,http://dsj.motem.top:8880/gaoma/cctv15.m3u8
-CCTV-16,http://dsj.motem.top:8880/gaoma/cctv16.m3u8
-CCTV-16,https://yunmei.tv/main/cctv-16.m3u8
-CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1744840823-kqikxsn1rjlodz3y8z478pcbx0e704a2-0-4e350fe8cf458f5298db1905432d8b18
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1744884032-s1ja6sevqnivzyfwrjpyqanqqefe3r19-0-228217b71ffc5a75c869bae41ae36817
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744840809&sign=975509d231f6b74bb3e4459a5bec8228
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744884011&sign=460fc7761bc488a73a67ee13da668d8f
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-安徽卫视,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=94e035101744847959
-东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1744909205-a255b672869645b2bd439e032b58fbdb-0-a22f17fa313e99559b69e5c819cf15ba
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=8f505b0b1744850813
+安徽卫视,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=3eff10b71744891157
+东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1744952405-debdedf01b384981a5e21d032fffe6d2-0-0a8dfbb940e03fa6c43d201ef749c978
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=b098c9241744894015
 甘肃卫视,https://hls.gstv.com.cn/skt649/479u8o.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=19e05a762c094e3d5bdc9412ce547451&txTime=6800283C
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=602cc6f6de289415426ca7a2d4bafc5f&txTime=6800D0FA
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1744848018&k=7eac138088a4b78a851cc9e2bd96b790
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9d66a4d2ac1eedfb489e38c0e4f40451&wsTime=1744855209&wsSession=9ccb11ee22de8a0950e13fd0-174484080926969&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=e52af519e6d21cb65894a94910bca8b6&txTime=680060B9
+海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=9b321a961744890225
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1744891219&k=ad33b0979445d1d81358e49815de313d
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6db44f7d152cf3947cb9a6a9b2f11b1e&wsTime=1744898409&wsSession=a4c7d513086efc42b3f98e23-174488400992029&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=efb566ffbbd7c30254286da322a93cd4&txTime=68010A88
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-青海卫视,https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=f4fca1e11744848020
+青海卫视,https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=9ad845131744887621
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/0sqvR0W.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-eiGMUZ.m3u8
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=c6f900b30f12ec594c3de76e7c5ecaf4&time=68002866
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1744844403-2-2-81be37bcc31e10f37d80d6ceeebb73ab&aliyun_uuid=d9f6e7e7-d508-4b1e-a005-6f2afc0eca56
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=6a5940fa99c4346dfef6be5d841ffc74&time=6800d128
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1744887603-5-5-11cdbecc667c403295830fd3401a1389&aliyun_uuid=a34a67f7-3963-47e9-954f-f5424e25f19b
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 
 ☘️广东频道,#genre#
@@ -62,41 +46,50 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 ☘️浙江频道,#genre#
-浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
-浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江,http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
-浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江都市,http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc
 浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江钱江台,http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江生活,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+浙江经济生活,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
-浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江新闻,http://zwebl02.cztv.com/live/channel071080P.m3u8?auth_key=2524708799-0-0-e3b50ca59d2c0883d5386d8bc4cdefbc
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
-之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
+之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+之江纪录,http://zwebl02.cztv.com/live/channel121080P.m3u8?auth_key=2524708799-0-0-c33efdd495bcdd2ddc42e7c408405037
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
+浙江国际,http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
+浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江教科影视,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed?
@@ -136,8 +129,8 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=
-数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+数码时代,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed#http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
@@ -157,8 +150,8 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8zzhed
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
-中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?
+中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed\r\n
@@ -166,10 +159,7 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1744840812&sign=436e1d64154b754e0bafa6137e878bf7
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1744840811&sign=86280b6bed36cacaef78259a1c4f9757
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1744840811&sign=0ed34e775b1a8f86373910d43ebd137d
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1744840811&sign=19d870dd039d9eed340e245eae05a34f
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1744884012&sign=f497480255b373df5f60a503f0b76c6a
 
 ☘️上海频道,#genre#
 
@@ -192,10 +182,10 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 
 ☘️四川频道,#genre#
 沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
+泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+甘孜综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 筠连综合,http://live.dameijunlian.cn:80/live1/live1.m3u8
-荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
-营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 
 ☘️陕西频道,#genre#
@@ -214,15 +204,11 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
 邯郸公共,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 邯郸科教,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-邢台综合,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd#https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8
 河北都市,https://event.pull.hebtv.com/jishi/dushipindao.m3u8
-河北都市,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8#http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
-河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd#http://hbfc.chinashadt.com:2036/live/1003.stream/playlist.m3u8#http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
-任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
@@ -235,12 +221,11 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 ☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1744844403-2-2-81be37bcc31e10f37d80d6ceeebb73ab&aliyun_uuid=d9f6e7e7-d508-4b1e-a005-6f2afc0eca56
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1744887603-5-5-11cdbecc667c403295830fd3401a1389&aliyun_uuid=a34a67f7-3963-47e9-954f-f5424e25f19b
 
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 
 ☘️安徽频道,#genre#
 
@@ -254,31 +239,29 @@ CCTV-17,http://dsj.motem.top:8880/gaoma/cctv17.m3u8
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
+安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
+西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 
 ☘️黑龙江频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
-凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰资讯,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
-无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://ali.hlspull.yximgs.com/live/5t6y7u8i9o0p1q2w3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5.flv#http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=2&hq#http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+无线新闻,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 
 🎬电影频道,#genre#
@@ -286,36 +269,24 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,http://dsj.motem.top:8880/gaoma/cctv5.m3u8
-CCTV-5+,http://dsj.motem.top:8880/gaoma/cctv5p.m3u8
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-JJ斗地主,https://www.goodiptv.club/douyin/685317364746
 
 🪁动画频道,#genre#
-24H国漫热播,https://www.goodiptv.club/yy/1353937086
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b22b66&tk=822270345d4c#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#https://stream1.freetv.fun/zhe-jiang-shao-er-3.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-1.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-3.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-11.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-1.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-10.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-8.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e24cd9&tk=822270345d4c#https://stream1.freetv.fun/zhe-jiang-shao-er-9.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-7.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2710&tk=e503191f8e20#https://stream1.freetv.fun/zhe-jiang-shao-er-15.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-2.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5472&tk=e503191f8e20#https://stream1.freetv.fun/zhe-jiang-shao-er-13.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-5.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6385&tk=f6cc1e0a0e1a#http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=2aca1ad9a849#http://ms.fxim.net:808/hls/15/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4359&tk=f6cc1e0a0e1a#https://stream1.freetv.fun/zhe-jiang-shao-er-2.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-12.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-12.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6980&tk=e640d0a1bf70#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9596&tk=e640d0a1bf70#https://stream1.freetv.fun/zhe-jiang-shao-er-14.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5221&tk=a0c4f6cfaba3#https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4268&tk=b53028476470#https://stream1.freetv.fun/zhe-jiang-shao-er-7.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0852&tk=a0c4f6cfaba3#http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1526&tk=2aca1ad9a849#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7710&tk=b53028476470#https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ms.fxim.net:808/hls/15/index.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6980&tk=e640d0a1bf70#https://stream1.freetv.fun/zhe-jiang-shao-er-1.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4268&tk=b53028476470#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=2aca1ad9a849#https://stream1.freetv.fun/zhe-jiang-shao-er-15.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6385&tk=f6cc1e0a0e1a#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5221&tk=a0c4f6cfaba3#https://stream1.freetv.fun/zhe-jiang-shao-er-8.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-2.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-3.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2710&tk=e503191f8e20#https://stream1.freetv.fun/zhe-jiang-shao-er-9.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-12.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-1.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-3.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#https://stream1.freetv.fun/zhe-jiang-shao-er-7.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-11.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7710&tk=b53028476470#https://stream1.freetv.fun/zhe-jiang-shao-er-6.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-9.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-4.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0852&tk=a0c4f6cfaba3#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4359&tk=f6cc1e0a0e1a#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b22b66&tk=822270345d4c#https://stream1.freetv.fun/zhe-jiang-shao-er-13.ctv#https://stream1.freetv.fun/zhe-jiang-shao-er-12.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-7.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5472&tk=e503191f8e20#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9596&tk=e640d0a1bf70#https://stream1.freetv.fun/zhe-jiang-shao-er-5.m3u8#http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408#https://stream1.freetv.fun/zhe-jiang-shao-er-10.ctv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e24cd9&tk=822270345d4c#https://stream1.freetv.fun/zhe-jiang-shao-er-14.ctv#http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1526&tk=2aca1ad9a849#https://stream1.freetv.fun/zhe-jiang-shao-er-4.m3u8#https://stream1.freetv.fun/zhe-jiang-shao-er-2.ctv#http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/360p.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
-经典动漫,https://www.goodiptv.club/yy/22777075
-漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,http://dsj.motem.top:8880/gaoma/cctv15.m3u8
 
 🏛经典剧场,#genre#
-笑傲江湖,https://www.goodiptv.club/yy/1354930909
-天龙八部,https://www.goodiptv.club/yy/1351814644
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
-三国演义,https://www.goodiptv.club/yy/32788000
 水浒传,http://www.clmy.cc:35455/yy/1353873252
-新白娘子传奇,https://www.goodiptv.club/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
-济公游记,https://www.goodiptv.club/yy/1355265814
-封神榜,https://www.goodiptv.club/yy/1382797534
 封神榜,http://www.clmy.cc:35455/yy/1353426319
-上海滩,https://www.goodiptv.club/yy/1382745184
 
 🕘️更新时间,#genre#
-2025-04-17 07:19:28,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-17 19:26:50,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
