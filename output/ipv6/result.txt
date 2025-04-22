@@ -1,42 +1,42 @@
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745316020-0ngi1f9vni6y70dzfrgyj1my7xik8flk-0-0b03d2e0aecfc91ceef6b3a9ced8b3ad
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745359223-w5q97jaxfhu2hb9dwiyfz05btb1wztxu-0-789efcf9229cc41cf91cf606db380a99
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745316008&sign=5a85942d0b4f1bde99316e65e278e967
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745359208&sign=17dfe6fe3bc105ee8a128a4cfb1ce70e
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-安徽卫视,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=e2978b291745323156
+安徽卫视,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=cd78f94e1745366356
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745384405-27033e380d044ce0bba206e14038b55c-0-d556842f579be8ca37d4ea4a9f3b784b
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=46b0fb4a1745326013
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=e8d3a83b1745369214
 甘肃卫视,https://hls.gstv.com.cn/skt649/479u8o.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=bce9c1bacb1aa56db3dbbf34c044d36b&txTime=68076879
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=ec8100079776febeef2e23319e244d92&txTime=6808113A
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745323216&k=90ec45825b4ac532c193a2c5c5d5c16a
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=34d17a7a781e6ae829f519a8a34ce6a5&wsTime=1745330408&wsSession=9ccb11ee22de8a0950e13fd0-174531600859991&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=770efe53379a01acc6da7f1013ef0fea&txTime=6807A0F6
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745366418&k=7a0440bdf580ab22a063bf6ea4966ad8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=368477dd836793623102dd42ed4dcd2d&wsTime=1745373608&wsSession=5bd926d5e40727170ced1180-174535920866712&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=fd1351029c23d0ef545268d3df4d429d&txTime=68084A3C
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-青海卫视,https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=24487cf61745319618
-山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/5sq4R0W.m3u8
-陕西卫视,http://stream.snrtv.com/sxbc-star-hvFY36.m3u8
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=d6b102ccaf9d1526c074088b87494b38&time=680768a7
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745319602-4-4-59f24ce79bd96b85f2726b0d4ad9c5fc&aliyun_uuid=aa566484-5b23-4f77-b43d-14f78f09b451
+青海卫视,https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=8de01de41745362819
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/m2sh84V.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-gixFX0.m3u8
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=c9f1117b565a469ed62722b8ebf36480&time=68081166
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745362802-1-1-7958238deef1dda80d3dbe856b2612d0&aliyun_uuid=218b862f-766d-4f57-a88c-5badb45b6fe4
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 
 ☘️广东频道,#genre#
 广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
@@ -72,10 +72,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745316010&sign=2eb9da0a120133e139862416d51909e9
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745316010&sign=d07f1c7042821dc565cf1254135e63fd
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1745316010&sign=905c947823127655d1c41e5abc93eb42
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745316010&sign=eced83136b520d19455ff7021e743092
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745359212&sign=09fe712ae8aa7a4fbc62f6b36d43643c
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745359211&sign=0aa4aebd31489d7f073d2e30fb39e2d3
+北京生活,https://brtv-play.v.btime.com/live/btv_sn_20170706_s7.m3u8?time=1745359210&sign=30c53ac8f9f9407c0d1de18e6c90a96a
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745359210&sign=3382d7ada51f95ff7bdfc13eb5265ea3
 
 ☘️上海频道,#genre#
 
@@ -91,8 +91,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 
 ☘️广西频道,#genre#
 北海经济科教,https://play-a2.quklive.com:443/live/1727311690820146.m3u8
-广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8#http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
+广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 
 ☘️天津频道,#genre#
 
@@ -123,8 +123,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
-任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
@@ -137,11 +137,12 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 ☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745319602-4-4-59f24ce79bd96b85f2726b0d4ad9c5fc&aliyun_uuid=aa566484-5b23-4f77-b43d-14f78f09b451
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745362802-1-1-7958238deef1dda80d3dbe856b2612d0&aliyun_uuid=218b862f-766d-4f57-a88c-5badb45b6fe4
 
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
+古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 
 ☘️安徽频道,#genre#
 
@@ -154,8 +155,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
-安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
-西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 
 ☘️黑龙江频道,#genre#
 
@@ -165,8 +164,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 
 🏀体育频道,#genre#
 广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
-广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 
 🪁动画频道,#genre#
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
@@ -182,4 +181,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 
 🕘️更新时间,#genre#
-2025-04-22 19:23:30,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-23 07:21:42,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
