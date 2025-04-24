@@ -1,45 +1,43 @@
 📺央视频道,#genre#
 CCTV-1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV-1,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-CCTV-5,https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8?wsApp=HLS
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745445621-na12777elhdrmpl06d8g58r7lczrn3yp-0-0130013b32acee2eb1760bdbbecf06ee
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745488822-gvdrav642wfra5lscoajylo24hbbkyf9-0-438b55ab19d63969c275cbeefe86c46c
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745445610&sign=6354a016257d87be05d77941574ebf59
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745488809&sign=977bc77c46dd10619177c3bb69960841
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
-安徽卫视,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=d253d7811745452756
-东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745514005-cfb29c61a9ed47fb9a13a87ac8eb45e7-0-0832bf6c73f65573af548440a9b163e0
-东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=231580621745455614
+安徽卫视,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=b7e3c5ab1745495959
+东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745557206-29faa4e99daa4acf9f2cdd953a1eed15-0-7a624b36693d4e5fd56bdc99652e567d
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=75c7de541745498814
 甘肃卫视,https://hls.gstv.com.cn/skt649/479u8o.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=44f9f7b97720728ae56875135bd96ea6&txTime=680962B9
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=31676f0a750bd4002b649bce12880b81&txTime=680A0B7B
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745452817&k=749783d28893d2f981f49d77148f3820
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2b0f4ca3ca77c96d5aec1198de87a448&wsTime=1745460009&wsSession=d540106ac1650884f2a53afc-174544560974468&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
-吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=94d6dcb1ca770518e9640381db47bfe3&txTime=68099B37
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745496018&k=8682bd9424abfbabd7766c12f9a032e6
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9769042e79e09bd946e7e875d9d189b4&wsTime=1745503209&wsSession=d540106ac1650884f2a53afc-174548880969367&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=7b297e6be27b6912932899eb234b7e9d&txTime=680A447A
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-青海卫视,https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=ad40d7371745449218
+青海卫视,https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=f00beb6f1745492418
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/22sqtR0.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-fyDMSU.m3u8
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=5d738c3661dbfd3e1ae59fa0ca39b366&time=680962e8
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745449202-8-8-385893721f0210ddcb8ce36178b99ec8&aliyun_uuid=8d19174c-79f9-4ce4-b327-dd699d528b32
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=21d46b8cbd0c02c59cce6e46685a3cf8&time=680a0ba8
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745492403-1-1-02fbec261d1fe8d6915dc637da229660&aliyun_uuid=e737b737-acb0-44e2-b481-f59621cd234e
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 
 ☘️广东频道,#genre#
-广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8
 广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 ☘️浙江频道,#genre#
@@ -125,10 +123,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745445612&sign=1f4cae7eaab2a28e84fb21af19220189
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745445612&sign=d958d282ce4879512b88b6565ca3baa9
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1745445611&sign=3a8899a8c3434063870f219dd3453cb5
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745445611&sign=1a633018b7256d1879cca75f935af8db
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1745488812&sign=df74f2f745baf8737169d055da71dc2d
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1745488811&sign=4093029a97a0c287e8be877b44f3b71d
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1745488811&sign=40e666f09fce9cf5f7fd37e930276407
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1745488811&sign=d83d86e368ec9088eb646544ccca536e
 
 ☘️上海频道,#genre#
 
@@ -143,16 +141,18 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
+北海经济科教,https://play-a2.quklive.com:443/live/1727311690820146.m3u8
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8#http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
+沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 石棉综合,http://live.dameijunlian.cn:80/live1/live1.m3u8
 筠连综合,http://live.dameijunlian.cn:80/live1/live1.m3u8
-荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
-营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
+荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 
 ☘️陕西频道,#genre#
 
@@ -174,6 +174,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 河北农民,https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+任丘综合,http://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉影视,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8
@@ -187,12 +188,11 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 ☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
-新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745449202-8-8-385893721f0210ddcb8ce36178b99ec8&aliyun_uuid=8d19174c-79f9-4ce4-b327-dd699d528b32
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1745492403-1-1-02fbec261d1fe8d6915dc637da229660&aliyun_uuid=e737b737-acb0-44e2-b481-f59621cd234e
 
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
 
 ☘️安徽频道,#genre#
 
@@ -206,43 +206,33 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
+安多卫视,rtmp://liveout.xntv.tv/a65jur/96iln2
+西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 
 ☘️黑龙江频道,#genre#
 
 🎬电影频道,#genre#
+东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,https://ldcctvwbcdcnc.v.wscdns.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8?wsApp=HLS
-CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
-广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
-JJ斗地主,https://www.goodiptv.club/douyin/685317364746
 
 🪁动画频道,#genre#
-24H国漫热播,https://www.goodiptv.club/yy/1353937086
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8
-经典动漫,https://www.goodiptv.club/yy/22777075
-漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,https://www.goodiptv.club/yy/1354930909
-天龙八部,https://www.goodiptv.club/yy/1351814644
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
-三国演义,https://www.goodiptv.club/yy/32788000
 水浒传,http://www.clmy.cc:35455/yy/1353873252
-新白娘子传奇,https://www.goodiptv.club/yy/1354490667
 新白娘子传奇,http://www.clmy.cc:35455/yy/1354490667
-济公游记,https://www.goodiptv.club/yy/1355265814
-封神榜,https://www.goodiptv.club/yy/1382797534
 封神榜,http://www.clmy.cc:35455/yy/1353426319
-上海滩,https://www.goodiptv.club/yy/1382745184
 
 🕘️更新时间,#genre#
-2025-04-24 07:13:42,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-24 19:17:38,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
