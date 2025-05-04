@@ -4,7 +4,7 @@
 
 📡卫视频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746353070&sign=17f89dc2350c4680641744ca81bf64d7
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746392408&sign=d5dd3f3cec643fe5482d3867f8802263
 
 ☘️广东频道,#genre#
 
@@ -17,10 +17,10 @@
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
 ☘️北京频道,#genre#
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1746353075&sign=6820eff760ef324171483af93a6e24f8
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1746353075&sign=6292f275f40f6637c17443459800dcf9
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1746353074&sign=d09c6e8dc1184e69a916db58f00f2a1a
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746353073&sign=c537c9e1cc48418029049a840b901a87
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1746392411&sign=2475787cc652f5e354c51c21709c954d
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1746392410&sign=746e49c9b64254514d3e9e4299cf678b
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1746392410&sign=ee3e41e8e5dc0a22fadcb0935275b703
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1746392410&sign=28f535ff90cc7122d1d1d531fd395f49
 
 ☘️上海频道,#genre#
 
@@ -86,4 +86,4 @@
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2025-05-04 18:24:53,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+2025-05-05 06:42:14,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
