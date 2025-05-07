@@ -121,7 +121,6 @@ def get_channel_items() -> CategoryChannelData:
     local_data = get_name_urls_from_file(config.local_file, format_name_flag=True)
     whitelist = get_name_urls_from_file(constants.whitelist_path)
     whitelist_urls = get_urls_from_file(constants.whitelist_path)
-    blacklist = get_urls_from_file(constants.blacklist_path, pattern_search=False)
     whitelist_len = len(list(whitelist.keys()))
     if whitelist_len:
         print(f"Found {whitelist_len} channel in whitelist")
@@ -137,6 +136,7 @@ def get_channel_items() -> CategoryChannelData:
             try:
                 with gzip.open(constants.cache_path, "rb") as file:
                     old_result = pickle.load(file)
+                    max_delay = config.speed_test_timeout * 1000
                     min_resolution_value = config.min_resolution_value
                     for cate, data in channels.items():
                         if cate in old_result:
@@ -150,11 +150,11 @@ def get_channel_items() -> CategoryChannelData:
                                     for info in old_result[cate][name]:
                                         if info:
                                             try:
+                                                delay = info.get("delay", 0)
                                                 resolution = info.get("resolution")
-                                                if info.get("delay") == -1 or info.get("speed") < 0.1 or (
+                                                if (delay == -1 or delay > max_delay) or info.get("speed") == 0 or (
                                                         resolution and get_resolution_value(
-                                                    resolution) < min_resolution_value) or check_url_by_keywords(
-                                                    url, blacklist):
+                                                    resolution) < min_resolution_value):
                                                     frozen_channels.add(info["url"])
                                                     continue
                                                 if info["origin"] == "whitelist" and not any(
@@ -738,7 +738,7 @@ def sort_channel_result(channel_data, result, filter_host=False, ipv6_support=Tr
     Sort channel result
     """
     channel_result = defaultdict(lambda: defaultdict(list))
-    logger = get_logger(constants.sort_log_path, level=INFO, init=True)
+    logger = get_logger(constants.speed_test_log_path, level=INFO, init=True)
     for cate, obj in channel_data.items():
         for name, values in obj.items():
             if not values:
@@ -746,7 +746,8 @@ def sort_channel_result(channel_data, result, filter_host=False, ipv6_support=Tr
             whitelist_result = []
             test_result = [] if filter_host else result.get(cate, {}).get(name, [])
             for value in values:
-                if value["origin"] in ["whitelist", "live", "hls"]:
+                if value["origin"] in ["whitelist", "live", "hls"] or (
+                        not ipv6_support and value["ipv_type"] == "ipv6"):
                     whitelist_result.append(value)
                 elif filter_host:
                     test_result.append({**value, **get_speed_result(value["host"])})
