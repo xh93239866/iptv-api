@@ -29,7 +29,7 @@ m3u8_headers = ['application/x-mpegurl', 'application/vnd.apple.mpegurl', 'audio
 default_ipv6_delay = -1
 default_ipv6_resolution = "192x108"
 default_ipv6_result = {
-    'speed': float("inf"),
+    'speed': 0,
     'delay': default_ipv6_delay,
     'resolution': default_ipv6_resolution
 }
