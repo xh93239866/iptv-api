@@ -16,11 +16,18 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
+<<<<<<< HEAD
 CCTV-5+
 CETV1
 CETV2
 CETV4
 CETV5
+=======
+CETV-1
+CETV-2
+CETV-3
+CETV-4
+>>>>>>> 160557aab1fc7a8fa9cb3df89fc3ba1772598380
 
 💰央视付费频道,#genre#
 文化精品
