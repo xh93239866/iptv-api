@@ -22,3 +22,4 @@ php.jdshipin.com
 api.olelive.com
 piccpndali.v.myalicdn.com
 p2.bdstatic.com
+154.40.47.19:668
