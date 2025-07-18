@@ -5,3 +5,4 @@
 https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
 https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 https://tv.iill.top/m3u/Gather
+https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u
